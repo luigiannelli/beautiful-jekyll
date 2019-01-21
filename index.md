@@ -3,7 +3,7 @@ layout: page
 title: about me
 ---
 
-<img src="./img/luigishapebg.png" alt="luigi" style="float:left" height="200" />
+<img src="./img/luigishapebg.png" alt="luigi" style="float:left;margin-right:20px" height="200" />
 
 Welcome to *luigi's pages on web*, my name is Luigi Giannelli and I am a PhD
 student in theoretical physics at  *Universität des Saarlandes*.
