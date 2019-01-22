@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about me
+title: luigi's pages on web
 ---
 
 <!-- <img src="./img/luigishapebg.png" alt="luigi" style="float:left;margin-right:20px" height="200" /> -->
