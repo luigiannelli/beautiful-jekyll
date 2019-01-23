@@ -1,6 +1,7 @@
 ---
 layout: page
 title: curriculum vitae
+use_math: true
 ---
 
 # education
