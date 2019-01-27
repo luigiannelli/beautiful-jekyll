@@ -69,7 +69,7 @@ Oct 2014 - Jan 2015: Tutor for bachelor course
 
 ## thesis supervision
 Apr - Sep 2018: Supervision of bachelor student Peter-Maximilian Ney
-:  - title: *Quantum memory for photons*
+:  - title: *Solid State Quantum Memory for Single Photons*
    - location: *Fachrichtung Physik, Universität des Saarlandes, Saarbrücken, Germany*
    
 Jan - Jul 2017: Supervision of bachelor student Marc Hermes

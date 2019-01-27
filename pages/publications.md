@@ -26,5 +26,5 @@ use_math: false
   
 1. **Low-lying adiabatic electronic states of NO: a QMC study**
 :   Luigi Giannelli and Claudio Amovilli \\
-    [Croatica Chemica ACTA 86 n. 4 (2013)](https://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=166560)
+    [Croatica Chemica ACTA 86 n. 4 (2013)](https://hrcak.srce.hr/112783)
 {: reversed="reversed"}
