@@ -24,6 +24,7 @@ title: luigi's pages on web
 # List of links in the navigation bar
 navbar-links:
   curriculum vitae: "pages/cv"
+  links: "pages/links"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"

@@ -46,25 +46,30 @@ Summer 2008: DOE-INFN Summer Exchange Program
 
 ## teaching
 
-Oct 2018 - Feb 2019: Exercises for the bachelor course *"Mathematical Methods for Physics"*
-:  - Fachrichtung Physik, Universität des Saarlandes, Saarbrücken, Germany
-   - lecturer: Prof. Giovanna Morigi
+Oct 2018 - Feb 2019: Exercises for bachelor course
+:  - title: *Mathematical Methods for Physics*
+   - location: *Fachrichtung Physik, Universität des Saarlandes, Saarbrücken, Germany*
+   - lecturer: *Prof. Giovanna Morigi*
 
-Apr - Jul 2017: Exercises for the bachelor course *"Theoretical Physics III/IV for teachers - Quantum Mechanics and Statistical Physics"*
-:  - Fachrichtung Physik, Universität des Saarlandes, Saarbrücken, Germany
-   - lecturer: Dr. Ferdi Schank
+Apr - Jul 2017: Exercises for bachelor course
+:  - title: *Theoretical Physics III/IV for teachers - Quantum Mechanics and Statistical Physics*
+   - location: *Fachrichtung Physik, Universität des Saarlandes, Saarbrücken, Germany*
+   - lecturer: *Dr. Ferdi Schank*
     
-Apr - Jul 2016: Exercises for the bachelor course *"Theoretical Physics I - Classical Mechanics"*
-:  - Fachrichtung Physik, Universität des Saarlandes, Saarbrücken, Germany
-   - lecturer: Prof. Giovanna Morigi
+Apr - Jul 2016: Exercises for bachelor course
+:  - title: *Theoretical Physics I - Classical Mechanics*
+   - location: *Fachrichtung Physik, Universität des Saarlandes, Saarbrücken, Germany*
+   - lecturer: *Prof. Giovanna Morigi*
     
-Apr - Jul 2015: Exercises for the bachelor course *"Theoretical Physics III - Quantum Mechanics"*
-:  - Fachrichtung Physik, Universität des Saarlandes, Saarbrücken, Germany
-   - lecturer: Prof. Giovanna Morigi
+Apr - Jul 2015: Exercises for bachelor course
+:  - title:  *Theoretical Physics III - Quantum Mechanics*
+   - location: *Fachrichtung Physik, Universität des Saarlandes, Saarbrücken, Germany*
+   - lecturer: *Prof. Giovanna Morigi*
     
-Oct 2014 - Jan 2015: Tutor for the bachelor course *"Experimental/Theoretical Physics seminar - Quantum Information"*
-:  - Fachrichtung Physik, Universität des Saarlandes, Saarbrücken, Germany
-   - lecturers: Prof. Christoph Becher, Prof. Jürgen Eschner, Prof. Giovanna Morigi
+Oct 2014 - Jan 2015: Tutor for bachelor course
+:  - title: *Experimental/Theoretical Physics seminar - Quantum Information*
+   - location: *Fachrichtung Physik, Universität des Saarlandes, Saarbrücken, Germany*
+   - lecturers: *Prof. Christoph Becher, Prof. Jürgen Eschner, Prof. Giovanna Morigi*
 
 ## supervision
 
