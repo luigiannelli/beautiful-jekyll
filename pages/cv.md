@@ -5,7 +5,6 @@ use_math: true
 ---
 
 # education
-
 Feb 2014 - current:  PhD student in Physics
 :  - Theoretische Physik, Universität des Saarlandes, Saarbrücken, Germany
    - supervisor: Prof. Giovanna Morigi
@@ -28,7 +27,6 @@ Sep 2009 - Oct 2013: M.Sc. in Physics
 
 
 # vocational experience
-
 Dec 2013 - Jan 2014: Research Internship - Università di Pisa
 :  - Dipartimento di Fisica, Università di Pisa, Pisa, Italy
    - supervisor:  Prof. Ennio Arimondo
@@ -43,9 +41,7 @@ Summer 2008: DOE-INFN Summer Exchange Program
 
 
 # academic activities
-
 ## teaching
-
 Oct 2018 - Feb 2019: Exercises for bachelor course
 :  - title: *Mathematical Methods for Physics*
    - location: *Fachrichtung Physik, Universität des Saarlandes, Saarbrücken, Germany*
@@ -71,34 +67,33 @@ Oct 2014 - Jan 2015: Tutor for bachelor course
    - location: *Fachrichtung Physik, Universität des Saarlandes, Saarbrücken, Germany*
    - lecturers: *Prof. Christoph Becher, Prof. Jürgen Eschner, Prof. Giovanna Morigi*
 
-## supervision
-
-Jan - Jul 2017: Supervision of the bachelor student Marc Hermes for his thesis
-:  - Fachrichtung Physik, Universität des Saarlandes, Saarbrücken, Germany
-   - title: *Quantum memory for photons*
-    
-Apr - Sep 2016: Supervision of the bachelor student Tom Schmit for his thesis
-:  - Fachrichtung Physik, Universität des Saarlandes, Saarbrücken, Germany
-   - title: *Photon-Atom Wechselwirkung Für Quantennetzwerke*
-    
-Apr - Jul 2014: Supervision of the bachelor student Rebecca Kraus for her thesis
-:  - Fachrichtung Physik, Universität des Saarlandes, Saarbrücken, Germany
-   - title: *Optische Kraft von Schwarzkörperstrahlung*
-
+## thesis supervision
+Apr - Sep 2018: Supervision of bachelor student Peter-Maximilian Ney
+:  - title: *Quantum memory for photons*
+   - location: *Fachrichtung Physik, Universität des Saarlandes, Saarbrücken, Germany*
+   
+Jan - Jul 2017: Supervision of bachelor student Marc Hermes
+:  - title: *Quantum memory for photons*
+   - location: *Fachrichtung Physik, Universität des Saarlandes, Saarbrücken, Germany*
+   
+Apr - Sep 2016: Supervision of bachelor student Tom Schmit
+:  - title: *Photon-Atom Wechselwirkung Für Quantennetzwerke*
+   - location: *Fachrichtung Physik, Universität des Saarlandes, Saarbrücken, Germany*
+   
+Apr - Jul 2014: Supervision of bachelor student Rebecca Kraus
+:  - title: *Optische Kraft von Schwarzkörperstrahlung*
+   - location: *Fachrichtung Physik, Universität des Saarlandes, Saarbrücken, Germany*
     
 ## journals referee
-
 Physical Review A, Physical Review Letters
 
 
 # languages
-
 **Italiano**: Native \\
 **English**: Fluent in listening, speaking, reading and writing
 
 
 # computer skills
-
 **Operating Systems**: GNU/Linux, Microsoft Windows \\
 **Programming Languages**: Julia, Python, C/C++, Fortran \\
 **Data analysis and Graphing**: SciPy, Mathematica, Inkscape \\

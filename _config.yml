@@ -24,12 +24,14 @@ title: luigi's pages on web
 # List of links in the navigation bar
 navbar-links:
   curriculum vitae: "pages/cv"
+  publications: "pages/publications"
+  contacts: "pages/contacts"
   links: "pages/links"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+
+  # Resources:
+  #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  #   - Learn markdown: "http://www.markdowntutorial.com/"
+  #   - GitHub Pages: "https://pages.github.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -250,7 +252,7 @@ exclude:
 #           help: "Check to publish post, uncheck to hide."
 
 plugins:
-  - jekyll-paginate
+  # - jekyll-paginate
   - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali
