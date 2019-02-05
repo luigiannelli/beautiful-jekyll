@@ -1,7 +1,6 @@
 ---
 layout: page
 title: contacts
-use_math: false
 ---
 
 # email

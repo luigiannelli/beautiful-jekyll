@@ -1,7 +1,6 @@
 ---
 layout: page
 title: publications
-use_math: false
 ---
 
 5. **Weak coherent pulses for single-photon quantum memories**

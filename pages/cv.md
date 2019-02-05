@@ -1,7 +1,6 @@
 ---
 layout: page
 title: curriculum vitae
-use_math: true
 ---
 
 # education
@@ -18,7 +17,7 @@ Sep 2009 - Oct 2013: M.Sc. in Physics
 2003 - 2009: B.Sc. in Physics
 :  - Università di Pisa, Pisa, Italy
    - grade: *110 cum Laude/110*
-   - thesis title: *Ricerca del bosone di Higgs di massa inferiore a $100 \mathrm{MeV/c^2}$ a LEP*
+   - thesis title: *Ricerca del bosone di Higgs di massa inferiore a <img src="https://latex.codecogs.com/png.latex?\inline&space;\dpi{300}&space;$100\mathrm{MeV/c^2}$" title="$100\mathrm{MeV/c^2}$" height="20"/> a LEP*
    - thesis supervisor: Prof. Giovanni Batignani
 
 1998 - 2003: High School Diploma

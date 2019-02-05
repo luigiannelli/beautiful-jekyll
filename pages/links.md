@@ -1,7 +1,6 @@
 ---
 layout: page
 title: links
-use_math: false
 ---
 
 # physics
