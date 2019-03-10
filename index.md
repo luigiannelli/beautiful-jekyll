@@ -11,5 +11,5 @@ I am interested in every aspect of science, especially *physics*. At the moment 
 
 My [Erdös Number](https://www.oakland.edu/enp/) is 3:
 : 1. **Paul Erdös** authored with **Peter Salamon** *"The Solution to a Problem of Grünbaum"*, Canadian Mathematical Bulletin 31, 129 (1988),
-  2. **Christiane P. Koch** authored with  **Peter Salamon** *"Controllability on relaxation-free subspaces: On the relationship between adiabatic population transfer and optimal control"*, Physical Review A 85, 033417 (2012),
-  3. **Luigi Giannelli** authored with **Christiane P. Koch** *"Optimal storage of a single photon by a single intra-cavity atom"*, New Journal of Physics 20, 105009 (2018).
+  2. **Peter Salamon** authored with **Christiane P. Koch** *"Controllability on relaxation-free subspaces: On the relationship between adiabatic population transfer and optimal control"*, Physical Review A 85, 033417 (2012),
+  3. **Christiane P. Koch** authored with **Luigi Giannelli** *"Optimal storage of a single photon by a single intra-cavity atom"*, New Journal of Physics 20, 105009 (2018).
