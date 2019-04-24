@@ -67,6 +67,10 @@ Oct 2014 - Jan 2015: Tutor for bachelor course
    - lecturers: *Prof. Christoph Becher, Prof. Jürgen Eschner, Prof. Giovanna Morigi*
 
 ## thesis supervision
+Dec 2017 - Apr 2019: Supervision of master student Tom Schmit
+:  - title: *Solid State Quantum Memory for Single Photons*
+   - location: *Fachrichtung Physik, Universität des Saarlandes, Saarbrücken, Germany*
+   
 Apr - Sep 2018: Supervision of bachelor student Peter-Maximilian Ney
 :  - title: *Solid State Quantum Memory for Single Photons*
    - location: *Fachrichtung Physik, Universität des Saarlandes, Saarbrücken, Germany*
@@ -84,8 +88,8 @@ Apr - Jul 2014: Supervision of bachelor student Rebecca Kraus
    - location: *Fachrichtung Physik, Universität des Saarlandes, Saarbrücken, Germany*
     
 ## journals referee
-Physical Review A, Physical Review Letters
-
+Since 2017: *Physical Review Letters* \\
+Since 2014: *Physical Review A*
 
 # languages
 **Italiano**: Native \\
